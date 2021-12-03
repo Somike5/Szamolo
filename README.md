@@ -32,17 +32,17 @@ Hogy hogyan csináltam?
 - általában vannak figyelmeztetések. Ezeket figyelmenkívül hagyhatjuk, de azért érdemes egy "review"-t nézni
 - A hibákkal mindenképpen foglalkozni kell! Hibás cucc ne kerüljön fe a githubra!
 - Tehát ha csak figyelmeztetések vannak, nyomjuk meg a "Commit" gombot.
-- Ha mindent jól csináltunk a lokális repónk fel van töltve!
+- Ha mindent jól csináltam a lokális repóm fel van töltve!
 8. "Git" menüre katt (felső sor ismét)
 - "Push" menüpont
 - Dialógus ablakban katt ide: "Define Remote"
 - Újabb dialógusban:
 - Name: pld: Szamolo
-- URL: Az az url amit a létrehozáskor láttál. így néz kiaz én esetemben: https://github.com/Somike5/Jatek01.git
+- URL: Az az url amit a létrehozáskor láttam. így néz kiaz én esetemben: https://github.com/Somike5/Jatek01.git
 9. PUSH
 - Katt a "Push"-ra
-- Azononosítási típushoz válaszd a tokent.
-- írd be ide a tokent. Csak viccelek: Illeszd be a tokent. :)
+- Azononosítási típushoz választottam a tokent.
+- írd be írtam a tokent. Csak viccelek: Be illesztettem a tokent. :)
 - Push.
-- Elméletileg készen vagy.
+- Elméletileg készen vagyok.  Ott a cucc a github-on. 
 
