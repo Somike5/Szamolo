@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shape dimension counter</string>
+    <string name="choose_a_geometric_shape">Choose a geometric shape</string>
+    <string name="circle_btn">Circle</string>
+    <string name="rect_btn">Rectangle</string>
+    <string name="circle_title">Circle parameters</string>
+    <string name="please_enter_the_radius">Please enter the radius</string>
+    <string name="compute">Compute</string>
+    <string name="results">Results:</string>
+    <string name="number_please">Please Enter a Number</string>
+    <string name="circumference">Circumference:</string>
+    <string name="area">Area:</string>
+    <string name="rect_title">Rectangle parameters</string>
+    <string name="please_enter_the_size_of_A_side">Size of: side A</string>
+    <string name="please_enter_the_size_of_B_side">Size of: side B</string>
+    <string name="btnMenu">Menu</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alakzat méret számoló</string>
+    <string name="choose_a_geometric_shape">Válassz egy geometriai alakzatot</string>
+    <string name="circle_btn">Kör</string>
+    <string name="rect_btn">Négyszög</string>
+
+    <string name="circle_title">A kör paraméterei</string>
+    <string name="please_enter_the_radius">Kérlek add meg a sugarat</string>
+    <string name="compute">Számolás</string>
+    <string name="results">Eredmény:</string>
+    <string name="number_please">Kérlek írj be egy számot</string>
+    <string name="circumference">Kerület:</string>
+    <string name="area">Terület:</string>
+
+    <string name="rect_title">A négyszög adatai</string>
+    <string name="please_enter_the_size_of_A_side">A oldal mérete</string>
+    <string name="please_enter_the_size_of_B_side">B oldal mérete</string>
+    <string name="btnMenu">Menü</string>
+</resources>
