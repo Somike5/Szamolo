@@ -40,7 +40,7 @@ Hogy hogyan csináltam?
 - Name: pld: Szamolo
 - URL: Az az url amit a létrehozáskor láttál. így néz kiaz én esetemben: https://github.com/Somike5/Jatek01.git
 9. PUSH
-- Katt a "Pushra"
+- Katt a "Push"-ra
 - Azononosítási típushoz válaszd a tokent.
 - írd be ide a tokent. Csak viccelek: Illeszd be a tokent. :)
 - Push.
