@@ -13,3 +13,25 @@ Hogy hogyan csináltam?
 3. Ahhoz hopgy fel tudjunk tölteni cuccosokat token kell. A token előállítása:
 - Jobra fent ahol mutatja, hogy be vagyok jelentkezve lehívtam a menüt
 - kiválasztottam a "Settings" menüpontot
+- A megnyíló új felületen (Profile , Personal account)
+- A bal oldali listából kiválasztottam a "Developer settings" menüpontot
+- Az új lapon kiválasztottam a "Personal Access tokens"-t
+- "Generate new token" gomb
+- Adtam neki 90 nap lejárati időt (3 hónap múlva új tokent kell generálni)
+- A legenerált tokent kimásoltam a vágólapra.
+4. Android Studio -> betöltött project, Hibátlan Build.
+5. "VCS" menü -> "Enable Version Controll integration"
+- A legördülő menüből kiválasztottam a Git-et
+- Ekkor legenerálódik a helyi git repo (Alulra zöld buborékban írja)
+6. "Git" menü -> "Commit"
+- Bal oldalon kipipáltam az egyetlen jelölőnégyzetet (Unversioned Files)
+- Az alatta lévő mezőbe beleírtam valamit (különbe nem lehet commitálni)
+7. Bal alul a kék "Commit" gombra kattintottam
+- Dolgozozik egy kicsit a program, majd kiírja hogy vannak e bajok a programmal
+- általában vannak figyelmeztetések. Ezeket figyelmenkívül hagyhatjuk, de azért érdemes egy "review"-t nézni
+- A hibákkal mindenképpen foglalkozni kell! Hibás cucc ne kerüljön fe a githubra!
+- Tehát ha csak figyelmeztetések vannak, nyomjuk meg a "Commit" gombot.
+- Ha mindent jól csináltunk a lokális repónk fel van töltve!
+8. "Git" menüre katt (felső sor ismét)
+- "Push" menüpont
+
